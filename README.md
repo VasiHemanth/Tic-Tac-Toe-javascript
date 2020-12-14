@@ -4,5 +4,5 @@ This game helps you to get familiarize with _Javascript_ syntax and it's functio
 >https://tic-tac-toe-twoplayer-game.herokuapp.com/
 
 
-##Reference
+## Reference
 https://www.youtube.com/watch?v=Y-GkMjUZsmM
